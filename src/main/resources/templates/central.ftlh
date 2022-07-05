@@ -8,7 +8,7 @@
     <a href="/akts">Акты</a></h2><hr>
     <a href="/performerOnes">Первый исполнитель</a></h2><hr>
     <a href="/performerThos">Второй исполнитель</a></h2><hr>
-    <a href="/transfers">Трансопорт</a></h2><hr>
+    <a href="/transfers">Транспорт</a></h2><hr>
     <a href="/invoices">НАРЯДЫ</a></h2><hr>
     <a href="/registration">Регистрация</a></h2>
     <a href="/login">Вход</a></h2>

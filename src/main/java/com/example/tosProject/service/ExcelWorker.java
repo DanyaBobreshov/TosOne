@@ -93,15 +93,11 @@ public class ExcelWorker {
         rowNum++;
         row=sheet.createRow(rowNum);
         row.createCell(1).setCellValue(invoice.getPerformerOne().getRang());
-        rowNum++;
-        row=sheet.createRow(rowNum);
-        row.createCell(1).setCellValue(invoice.getPerformerOne().getName());
+        row.createCell(7).setCellValue(invoice.getPerformerOne().getName());
         rowNum++;
         row=sheet.createRow(rowNum);
         row.createCell(1).setCellValue(invoice.getPerformerTho().getRang());
-        rowNum++;
-        row=sheet.createRow(rowNum);
-        row.createCell(1).setCellValue(invoice.getPerformerTho().getName());
+        row.createCell(7).setCellValue(invoice.getPerformerTho().getName());
         rowNum++;
         rowNum++;
         row=sheet.createRow(rowNum);
